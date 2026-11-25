@@ -1,2 +1,1 @@
-# text_share
-text_share
+# text_share.zip便是完整源码
